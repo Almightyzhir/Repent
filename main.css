@@ -1,0 +1,17 @@
+h1 {
+    color: red
+}
+
+#btnStart {
+    width: 400px;
+    height: 80px;
+}
+
+.divbtnStart {
+    text-align: center;
+    margin-top: 200px;
+}
+
+#txtEnterCode {
+    height: 100px;
+}
